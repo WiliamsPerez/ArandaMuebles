@@ -1,4 +1,18 @@
 /* Magnific Popup CSS */
+#tabla1{
+  border: 1px solid #1E679A;
+  width: 280px;
+}
+#cabtab1{
+  background-color: #1E679A;
+  font-weight: bold;
+  color: #ffffff;
+  padding: 2 2 2 2px;
+}
+#cuerpotab1{
+  padding: 4 4 4 4px;
+  background-color: #ffffcc;
+}
 .mfp-bg {
   top: 0;
   left: 0;
